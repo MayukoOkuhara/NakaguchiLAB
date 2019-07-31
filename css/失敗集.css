@@ -1,0 +1,86 @@
+CSS失敗集
+/*失敗-2
+.gl-header h1 {
+    width: 80px;
+    height: 80px;
+}
+.gl-header h1 a {
+    display: block;
+    width: 80px;
+    height: 80px;
+            background: url("../NLabLogo/LogoMark/w300h388pxRGB.png");
+    background-repeat: no-repeat;
+        background-size: contain;
+                background-size: contain;
+            text-indent: -9999px;
+}
+.gl-header h1 a:hover {
+    opacity: .5;
+}
+*/
+/*失敗-1
+.gl-header {
+    height: 80px;
+    padding-top: 30px;
+    overflow: hidden;
+}
+
+.gl-header h1 {
+    float: left;
+}
+
+.gl-header h1 a {
+    display: block;
+    width: 80px;
+    height: 80px;
+    background: url("../NLabLogo/LogoMark/w300h388pxRGB.png") 0 0 no-repeat;
+    background-size: contain;
+    text-indent: -9999px;
+}
+
+.gl-header h1 a:hover {
+    opacity: .5;
+}
+
+.gl-nav ul {
+        list-style-type: none;
+    overflow: hidden;
+        padding: 5px 0 0 42px;
+}
+
+.gl-nav li {
+    float: left;
+    width: 140px;
+        text-align: center;
+            margin-right: 12px;
+}
+
+.gl-nav li a {
+    text-decoration: none;
+    text-align: center;
+    font-size: 1rem;
+    color: #343A40;
+}
+.gl-header h1 a:hover {
+    opacity: .5;
+}
+*/
+
+/*動画やめた設定
+.main-video {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.main-video video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+*/
